@@ -1,0 +1,9 @@
+Build.PL
+lib/Chefcito/Chef.pm
+lib/Chefcito/Chef/Container.pm
+lib/Chefcito/Chef/Ingredient.pm
+lib/Chefcito/Chef/Recipe.pm
+MANIFEST			This list of files
+README.md
+script/chef
+script/compilechef
