@@ -60,6 +60,7 @@ Ingredients.
 58 ml dospuntos
 1 g uno
 0 g cero
+0 g temporaltemporal
 0 g turno
 0 g booleano
 0 g delete
@@ -179,6 +180,12 @@ Show the 99th mixing bowl.
 //--------------------------------------------------------------Fin Bowls para imprimir guia para jugar.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio de juego.
+Put uno into 369th mixing bowl.
+Put cero into 369th mixing bowl.
+Put cero into 369th mixing bowl.
+Put cero into 369th mixing bowl.
+Put cero into 369th mixing bowl.
+Put uno into 258th mixing bowl.
 Cook the game.
 Clean the 77th mixing bowl.
 //------------------------------------.
@@ -430,6 +437,11 @@ Show the 9th mixing bowl.
 //--------------------------------------------------------------Inicio Turno de la maquina.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio mostrar aviso de maquina.
+Fold temporaltemporal into 369th mixing bowl.
+Compare temporaltemporal fin into 258th mixing bowl.
+  Set aside.
+End compare fin.
+//--------------------------------------------------------------.
 Put dospuntos into the mixing bowl.
 Put a into the mixing bowl.
 Put n into the mixing bowl.
@@ -999,12 +1011,242 @@ End compare v6.
 //--------------------------------------------------------------Fin de analisis en columna tres.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio de analisis en diagonal de izquierda a derecha.
+Compare cero v7 into 77th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 4th mixing bowl.
+    Fold temporalcuatro into 5th mixing bowl.
+    Fold temporalcinco into 5th mixing bowl.
+    Fold temporalseis into 5th mixing bowl.
+      Put temporalseis into the 123th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporaluno into the 123th mixing bowl.
+      Put temporalseis into the 456th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporaluno into the 456th mixing bowl.
+      Put temporalseis into the 789th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporaluno into the 789th mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+    Put temporaltres into the 4th mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporalseis into the 5th mixing bowl.
+    Put temporalcinco into the 5th mixing bowl.
+    Put temporalcuatro into the 5th mixing bowl.
+    Compare playeronemove c55 into 123th mixing bowl.
+        Fold temporaluno into 123th mixing bowl.
+          Compare playeronemove c56 into 123th mixing bowl.
+            Fold temporaldos into 123th mixing bowl.
+              Compare space c57 into 123th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Put playeronemove into the 3rd mixing bowl.
+                Put playeronemove into the 4th mixing bowl.
+                Put temporaltres into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.
+                Put temporalcinco into the 5th mixing bowl.
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.            
+              End compare c57.
+            Put temporaldos into the 123th mixing bowl.
+          End compare c56.
+        Put temporaluno into the 123th mixing bowl.
+    End compare c55.
+//--------------------------------------------------------------OXO.  
+    Compare playeronemove c58 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c59 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playeronemove c60 into 456th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Put playeronemove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put temporaltres into the 4th mixing bowl.
+                Put playeronemove into the 5th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.
+                Put temporalcinco into the 5th mixing bowl.
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.      
+              End compare c60.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c59.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c58. 
+//--------------------------------------------------------------XOO.
+    Compare space c61 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playeronemove c62 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playeronemove c63 into 789th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playeronemove into the 4th mixing bowl.
+                Put temporaltres into the 4th mixing bowl.
+                Put playeronemove into the 5th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.
+                Put temporalcinco into the 5th mixing bowl.
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.                  
+              End compare c63.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c62.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c61.                  
+End compare v7.     
 //--------------------------------------------------------------Fin de analisis en diagonal de izquierda a derecha.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio de analisis en diagonal de derecha a izquierda.
+Compare cero v8 into 77th mixing bowl.
+    Fold temporaluno into 5th mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 4th mixing bowl.
+    Fold temporalcuatro into 3rd mixing bowl.
+    Fold temporalcinco into 3rd mixing bowl.
+    Fold temporalseis into 3rd mixing bowl.
+      Put temporaluno into the 123th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporalseis into the 123th mixing bowl.
+      Put temporaluno into the 456th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporalseis into the 456th mixing bowl.
+      Put temporaluno into the 789th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporalseis into the 789th mixing bowl.
+    Put temporaluno into the 5th mixing bowl.
+    Put temporaltres into the 4th mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporalseis into the 3rd mixing bowl.
+    Put temporalcinco into the 3rd mixing bowl.
+    Put temporalcuatro into the 3rd mixing bowl.
+    Compare playeronemove c64 into 123th mixing bowl.
+        Fold temporaluno into 123th mixing bowl.
+          Compare playeronemove c65 into 123th mixing bowl.
+            Fold temporaldos into 123th mixing bowl.
+              Compare space c66 into 123th mixing bowl.
+                Fold temporaluno into 5th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporalseis into 3rd mixing bowl.
+                Fold temporalcinco into 3rd mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put playeronemove into the 4th mixing bowl.
+                Put temporaltres into the 4th mixing bowl.
+                Put playeronemove into the 3rd mixing bowl.
+                Put temporalseis into the 3rd mixing bowl.
+                Put temporalcinco into the 3rd mixing bowl.
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.            
+              End compare c66.
+            Put temporaldos into the 123th mixing bowl.
+          End compare c65.
+        Put temporaluno into the 123th mixing bowl.
+    End compare c64.
+//--------------------------------------------------------------OXO.  
+    Compare playeronemove c67 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c68 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playeronemove c69 into 456th mixing bowl.
+                Fold temporaluno into 5th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporalseis into 3rd mixing bowl.
+                Fold temporalcinco into 3rd mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Put playeronemove into the 5th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put temporaltres into the 4th mixing bowl.
+                Put playeronemove into the 3rd mixing bowl.
+                Put temporalseis into the 3rd mixing bowl.
+                Put temporalcinco into the 3rd mixing bowl.
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.    
+              End compare c69.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c68.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c67. 
+//--------------------------------------------------------------XOO.
+    Compare space c70 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playeronemove c71 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playeronemove c72 into 789th mixing bowl.
+                Fold temporaluno into 5th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporalseis into 3rd mixing bowl.
+                Fold temporalcinco into 3rd mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Put playeronemove into the 5th mixing bowl.
+                Put playeronemove into the 4th mixing bowl.
+                Put temporaltres into the 4th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put temporalseis into the 3rd mixing bowl.
+                Put temporalcinco into the 3rd mixing bowl.
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.                   
+              End compare c72.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c71.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c70.                  
+End compare v8.
 //--------------------------------------------------------------Fin de analisis en diagonal de derecha a izquierda.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio de analisis individual.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------22.
+//-.
+//--------------------------------------------------------------End 22.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------11.
+//-.
+//--------------------------------------------------------------End 11.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------13.
+//-.
+//--------------------------------------------------------------End 13.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------31.
+//-.
+//--------------------------------------------------------------End 31.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------33.
+//-.
+//--------------------------------------------------------------End 33.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------12.
+//-.
+//--------------------------------------------------------------End 12.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------21.
+//-.
+//--------------------------------------------------------------End 21.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------23.
+//-.
+//--------------------------------------------------------------End 23.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------32.
+//-.
+//--------------------------------------------------------------End 32.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Fin de analisis individual.
 //--------------------------------------------------------------.
