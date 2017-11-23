@@ -66,6 +66,8 @@ Ingredients.
 79 ml om
 72 ml hm
 58 ml dospuntos
+3 g tres
+2 g dos
 1 g uno
 0 g cero
 0 g temporaltemporal
@@ -73,8 +75,210 @@ Ingredients.
 0 g booleano
 0 g delete
 9999999999999999 g input
+9999999999999999 g output
+0 g dificultad
 
 Method.
+//--------------------------------------------------------------Inicio - Input de dificultad.
+//--------------------------------------------------------------.
+Put uno into the 1997th mixing bowl.
+Put dos into the 1998th mixing bowl.
+Put tres into the 1999th mixing bowl.
+//--------------------------------------------------------------.
+Put dospuntos into the mixing bowl.
+Put n into the mixing bowl.
+Put o into the mixing bowl.
+Put i into the mixing bowl.
+Put c into the mixing bowl.
+Put a into the mixing bowl.
+Put m into the mixing bowl.
+Put r into the mixing bowl.
+Put o into the mixing bowl.
+Put f into the mixing bowl.
+Put n into the mixing bowl.
+Put i into the mixing bowl.
+Put space into the mixing bowl.
+Put e into the mixing bowl.
+Put t into the mixing bowl.
+Put n into the mixing bowl.
+Put e into the mixing bowl.
+Put i into the mixing bowl.
+Put u into the mixing bowl.
+Put g into the mixing bowl.
+Put i into the mixing bowl.
+Put s into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put l into the mixing bowl.
+Put space into the mixing bowl.
+Put n into the mixing bowl.
+Put u into the mixing bowl.
+Put g into the mixing bowl.
+Put e into the mixing bowl.
+Put s into the mixing bowl.
+Put space into the mixing bowl.
+Put d into the mixing bowl.
+Put a into the mixing bowl.
+Put t into the mixing bowl.
+Put l into the mixing bowl.
+Put u into the mixing bowl.
+Put c into the mixing bowl.
+Put i into the mixing bowl.
+Put f into the mixing bowl.
+Put i into the mixing bowl.
+Put d into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put l into the mixing bowl.
+Put space into the mixing bowl.
+Put e into the mixing bowl.
+Put s into the mixing bowl.
+Put e into the mixing bowl.
+Put r into the mixing bowl.
+Put g into the mixing bowl.
+Put n into the mixing bowl.
+Put im into the mixing bowl.
+Show the mixing bowl.
+Clean the mixing bowl.
+//--------------------------------------------------------------.
+Put punto into the mixing bowl.
+Put l into the mixing bowl.
+Put i into the mixing bowl.
+Put c into the mixing bowl.
+Put a into the mixing bowl.
+Put f into the mixing bowl.
+Put space into the mixing bowl.
+Put o into the mixing bowl.
+Put g into the mixing bowl.
+Put e into the mixing bowl.
+Put u into the mixing bowl.
+Put j into the mixing bowl.
+Put space into the mixing bowl.
+Put n into the mixing bowl.
+Put u into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put r into the mixing bowl.
+Put a into the mixing bowl.
+Put p into the mixing bowl.
+Put space into the mixing bowl.
+Put dospuntos into the mixing bowl.
+Put uno into the mixing bowl.
+Show the mixing bowl.
+Clean the mixing bowl.
+//--------------------------------------------------------------.
+Put punto into the mixing bowl.
+Put l into the mixing bowl.
+Put a into the mixing bowl.
+Put m into the mixing bowl.
+Put r into the mixing bowl.
+Put o into the mixing bowl.
+Put n into the mixing bowl.
+Put space into the mixing bowl.
+Put o into the mixing bowl.
+Put g into the mixing bowl.
+Put e into the mixing bowl.
+Put u into the mixing bowl.
+Put j into the mixing bowl.
+Put space into the mixing bowl.
+Put n into the mixing bowl.
+Put u into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put r into the mixing bowl.
+Put a into the mixing bowl.
+Put p into the mixing bowl.
+Put space into the mixing bowl.
+Put dospuntos into the mixing bowl.
+Put dos into the mixing bowl.
+Show the mixing bowl.
+Clean the mixing bowl.
+//--------------------------------------------------------------.
+Put punto into the mixing bowl.
+Put l into the mixing bowl.
+Put i into the mixing bowl.
+Put c into the mixing bowl.
+Put i into the mixing bowl.
+Put f into the mixing bowl.
+Put i into the mixing bowl.
+Put d into the mixing bowl.
+Put space into the mixing bowl.
+Put o into the mixing bowl.
+Put g into the mixing bowl.
+Put e into the mixing bowl.
+Put u into the mixing bowl.
+Put j into the mixing bowl.
+Put space into the mixing bowl.
+Put n into the mixing bowl.
+Put u into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put r into the mixing bowl.
+Put a into the mixing bowl.
+Put p into the mixing bowl.
+Put space into the mixing bowl.
+Put dospuntos into the mixing bowl.
+Put tres into the mixing bowl.
+Show the mixing bowl.
+Clean the mixing bowl.
+//--------------------------------------------------------------.
+Lux the output.
+Take dificultad from refrigerator.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio - facil.
+Compare dificultad cv1 into 1997th mixing bowl.
+Set aside.
+End compare cv1.
+//--------------------------------------------------------------Fin - facil.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio - normal.
+Compare dificultad cv2 into 1998th mixing bowl.
+Set aside.
+End compare cv2.
+//--------------------------------------------------------------Fin - normal.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio - dificil.
+Compare dificultad cv3 into 1999th mixing bowl.
+Set aside.
+End compare cv3.
+//--------------------------------------------------------------Fin - dificil.
+Put dospuntos into the mixing bowl.
+Put a into the mixing bowl.
+Put d into the mixing bowl.
+Put i into the mixing bowl.
+Put l into the mixing bowl.
+Put a into the mixing bowl.
+Put v into the mixing bowl.
+Put space into the mixing bowl.
+Put d into the mixing bowl.
+Put a into the mixing bowl.
+Put t into the mixing bowl.
+Put l into the mixing bowl.
+Put u into the mixing bowl.
+Put c into the mixing bowl.
+Put i into the mixing bowl.
+Put f into the mixing bowl.
+Put i into the mixing bowl.
+Put d into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put n into the mixing bowl.
+Put u into the mixing bowl.
+Put space into the mixing bowl.
+Put e into the mixing bowl.
+Put s into the mixing bowl.
+Put e into the mixing bowl.
+Put r into the mixing bowl.
+Put g into the mixing bowl.
+Put n into the mixing bowl.
+Put im into the mixing bowl.
+Show the mixing bowl.
+Clean the mixing bowl.
+Lux the output until luxed.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Fin - Input de dificultad.
+//--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio mensaje de bienvenida.
 Put dospuntos into the mixing bowl.
 Put o into the mixing bowl.
@@ -711,65 +915,946 @@ Put temporaluno into 717th mixing bowl.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio Turno de la maquina.
 //--------------------------------------------------------------.
-//--------------------------------------------------------------Inicio mostrar aviso de maquina.
-Fold temporaltemporal into 369th mixing bowl.
-Compare temporaltemporal fin into 258th mixing bowl.
-      Put punto into the mixing bowl.
-      Put o into the mixing bowl.
-      Put i into the mixing bowl.      
-      Put t into the mixing bowl.
-      Put space into the mixing bowl.
-      Put coma into the mixing bowl.
-      Put e into the mixing bowl.
-      Put t into the mixing bowl.     
-      Put a into the mixing bowl.
-      Put p into the mixing bowl.
-      Put m into the mixing bowl.
-      Put e into the mixing bowl.
-      Put space into the mixing bowl.
-      Put n into the mixing bowl.
-      Put u into the mixing bowl.
-      Put space into the mixing bowl.
-      Put o into the mixing bowl.
-      Put d into the mixing bowl.
-      Put i into the mixing bowl.
-      Put s into the mixing bowl.
-      Put space into the mixing bowl.
-      Put a into the mixing bowl.
-      Put hm into the mixing bowl.
-      Show the mixing bowl.
-      Clean the mixing bowl.
-      Set aside.
-End compare fin.
+//--------------------------------------------------------------Inicio - Nivel de dificultad.
 //--------------------------------------------------------------.
-Put dospuntos into the mixing bowl.
-Put a into the mixing bowl.
-Put n into the mixing bowl.
-Put i into the mixing bowl.
-Put u into the mixing bowl.
-Put q into the mixing bowl.
-Put a into the mixing bowl.
-Put m into the mixing bowl.
-Put space into the mixing bowl.
-Put a into the mixing bowl.
-Put l into the mixing bowl.
-Put space into the mixing bowl.
-Put e into the mixing bowl.
-Put d into the mixing bowl.
-Put space into the mixing bowl.
-Put a into the mixing bowl.
-Put t into the mixing bowl.
-Put s into the mixing bowl.
-Put e into the mixing bowl.
-Put u into the mixing bowl.
-Put p into the mixing bowl.
-Put s into the mixing bowl.
-Put e into the mixing bowl.
-Put em into the mixing bowl.
-Show the mixing bowl.
-Clean the mixing bowl.
-//--------------------------------------------------------------Fin mostrar aviso de maquina.
+//--------------------------------------------------------------Inicio - facil.
+Compare dificultad cv6 into 1997th mixing bowl.
+Put booleano into the 77th mixing bowl.
+//--------------------------------------------------------------Inicio de analisis individual.
 //--------------------------------------------------------------.
+Clean the 944th mixing bowl.
+Clean the 945th mixing bowl.
+Clean the 946th mixing bowl.
+//------------------------------------.
+Fold temporaluno into 3rd mixing bowl.
+Fold temporaldos into 3rd mixing bowl.
+Fold temporaltres into 3rd mixing bowl.
+Put temporaltres into 944th mixing bowl.
+Put temporaldos into 944th mixing bowl.
+Put temporaluno into 944th mixing bowl.
+Put temporaltres into 3rd mixing bowl.
+Put temporaldos into 3rd mixing bowl.
+Put temporaluno into 3rd mixing bowl.
+//------------------------------------.
+Fold temporalcuatro into 4th mixing bowl.
+Fold temporalcinco into 4th mixing bowl.
+Fold temporalseis into 4th mixing bowl.
+Put temporalseis into 945th mixing bowl.
+Put temporalcinco into 945th mixing bowl.
+Put temporalcuatro into 945th mixing bowl.
+Put temporalseis into 4th mixing bowl.
+Put temporalcinco into 4th mixing bowl.
+Put temporalcuatro into 4th mixing bowl.
+//------------------------------------.
+Fold temporalsiete into 5th mixing bowl.
+Fold temporalocho into 5th mixing bowl.
+Fold temporalnueve into 5th mixing bowl.
+Put temporalnueve into 946th mixing bowl.
+Put temporalocho into 946th mixing bowl.
+Put temporalsiete into 946th mixing bowl.
+Put temporalnueve into 5th mixing bowl.
+Put temporalocho into 5th mixing bowl.
+Put temporalsiete into 5th mixing bowl.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------22.
+Compare cero v9 into 77th mixing bowl.
+Fold temporaltres into 945th mixing bowl.
+  Compare space c73 into 945th mixing bowl.
+    Fold temporaluno into 4th mixing bowl.
+      Fold temporaldos into 4th mixing bowl.
+      Put playertwomove into the 4th mixing bowl.
+    Put temporaluno into the 4th mixing bowl.    
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.   
+  End compare c73.
+Put temporaltres into the 945th mixing bowl. 
+End compare v9.
+//--------------------------------------------------------------End 22.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------11.
+Compare cero v10 into 77th mixing bowl.
+Compare space c74 into 3rd mixing bowl.
+  Fold temporaluno into 3rd mixing bowl.
+  Put playertwomove into the 3rd mixing bowl.
+    Fold booleano into 77th mixing bowl.
+    Put uno into the 77th mixing bowl.     
+End compare c74.
+End compare v10.
+//--------------------------------------------------------------End 11.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------13.
+Compare cero v11 into 77th mixing bowl.
+Fold temporalcuatro into 944th mixing bowl.
+Fold temporalcinco into 944th mixing bowl.
+  Compare space c75 into 944th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 3rd mixing bowl.
+    Fold temporaltres into 3rd mixing bowl.
+    Put playertwomove into the 3rd mixing bowl.   
+    Put temporaldos into the 3rd mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.  
+  End compare c75.
+Put temporalcinco into the 944th mixing bowl.
+Put temporalcuatro into the 944th mixing bowl.
+End compare v11.
+//--------------------------------------------------------------End 13.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------31.
+Compare cero v12 into 77th mixing bowl.
+Compare space c76 into 5th mixing bowl.
+  Fold temporaluno into 5th mixing bowl.
+  Put playertwomove into 5th mixing bowl.
+  Fold booleano into 77th mixing bowl.
+  Put uno into the 77th mixing bowl.     
+End compare c76.
+End compare v12.
+//--------------------------------------------------------------End 31.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------33.
+Compare cero v13 into 77th mixing bowl.
+Fold temporalcinco into 946th mixing bowl.
+Fold temporalseis into 946th mixing bowl.
+  Compare space c77 into 946th mixing bowl.
+    Fold temporaluno into 5th mixing bowl.
+    Fold temporaldos into 5th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+    Put playertwomove into the 5th mixing bowl.
+    Put temporaldos into the 5th mixing bowl.
+    Put temporaluno into the 5th mixing bowl.
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.     
+  End compare c77.
+Put temporalseis into the 946th mixing bowl.
+Put temporalcinco into the 946th mixing bowl.
+End compare v13.
+//--------------------------------------------------------------End 33.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------12.
+Compare cero v14 into 77th mixing bowl.
+Fold temporalseis into 944th mixing bowl.
+  Compare space c79 into 944th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaltres into 3rd mixing bowl.
+    Put playertwomove into the 3rd mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.     
+  End compare c79.
+Put temporalseis into the 944th mixing bowl.
+End compare v14.
+//--------------------------------------------------------------End 12.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------21.
+Compare cero v15 into 77th mixing bowl.
+Compare space c80 into 4th mixing bowl.
+  Fold temporaltres into 4th mixing bowl.
+  Put playertwomove into the 4th mixing bowl.
+  Fold booleano into 77th mixing bowl.
+  Put uno into the 77th mixing bowl.     
+End compare c80.
+End compare v15.
+//--------------------------------------------------------------End 21.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------23.
+Compare cero v16 into 77th mixing bowl.
+Fold temporalseis into 945th mixing bowl.
+Fold temporalsiete into 945th mixing bowl.
+  Compare space c81 into 945th mixing bowl.
+    Fold temporaluno into 4th mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 4th mixing bowl.
+    Put playertwomove into the 4th mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporaluno into the 4th mixing bowl.   
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.  
+  End compare c81.
+Put temporalsiete into the 945th mixing bowl.
+Put temporalseis into the 945th mixing bowl.    
+End compare v16.
+//--------------------------------------------------------------End 23.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------32.
+Compare cero v17 into 77th mixing bowl.
+Fold temporalocho into 946th mixing bowl.
+  Compare space c82 into 946th mixing bowl.
+    Fold temporaluno into 5th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+    Put playertwomove into the 5th mixing bowl.
+    Put temporaluno into the 5th mixing bowl. 
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.    
+End compare c82.
+Put temporalocho into the 946th mixing bowl. 
+End compare v17.
+//--------------------------------------------------------------End 32.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Fin de analisis individual.
+End compare cv6.
+//--------------------------------------------------------------Fin - facil.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio - normal.
+Compare dificultad cv7 into 1998th mixing bowl.
+Put booleano into the 77th mixing bowl.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio Ganar.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en fila uno.
+Compare cero v1 into 77th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 3rd mixing bowl.
+    Fold temporaltres into 3rd mixing bowl.
+    Put temporaltres into the 123th mixing bowl.
+    Put temporaldos into the 123th mixing bowl.
+    Put temporaluno into the 123th mixing bowl.
+    Put temporaltres into the 456th mixing bowl.
+    Put temporaldos into the 456th mixing bowl.
+    Put temporaluno into the 456th mixing bowl.
+    Put temporaltres into the 789th mixing bowl.
+    Put temporaldos into the 789th mixing bowl.
+    Put temporaluno into the 789th mixing bowl.
+    Put temporaltres into the 3rd mixing bowl.
+    Put temporaldos into the 3rd mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+//-----------------------------------------------------------------------------------------------------OOX.
+//Eliminado.
+//-----------------------------------------------------------------------------------------------------OXO.  
+    Compare playertwomove c4 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c5 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playertwomove c6 into 456th mixing bowl.
+                Fold temporaltres into 3rd mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Fold temporalcinco into 3rd mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.   
+                Put playertwomove into the 3rd mixing bowl.   
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.          
+              End compare c6.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c5.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c4.    
+//-----------------------------------------------------------------------------------------------------XOO.
+    Compare space c7 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playertwomove c8 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playertwomove c9 into 789th mixing bowl.
+                Fold temporaltres into 3rd mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Fold temporalcinco into 3rd mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.  
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.              
+              End compare c9.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c8.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c7.                  
+End compare v1.     
+//-----------------------------------------------------------------------------------------------------Fin de analisis en fila uno.
+//-----------------------------------------------------------------------------------------------------.
+//-----------------------------------------------------------------------------------------------------Inicio de analisis en fila dos.
+Compare cero v2 into 77th mixing bowl.
+    Fold temporaluno into 4th mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 4th mixing bowl.
+    Put temporaltres into the 123th mixing bowl.
+    Put temporaldos into the 123th mixing bowl.
+    Put temporaluno into the 123th mixing bowl.
+    Put temporaltres into the 456th mixing bowl.
+    Put temporaldos into the 456th mixing bowl.
+    Put temporaluno into the 456th mixing bowl.
+    Put temporaltres into the 789th mixing bowl.
+    Put temporaldos into the 789th mixing bowl.
+    Put temporaluno into the 789th mixing bowl.
+    Put temporaltres into the 4th mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporaluno into the 4th mixing bowl.
+//-----------------------------------------------------------------------------------------------------OOX.
+    Compare playertwomove c10 into 123th mixing bowl.
+        Fold temporaluno into 123th mixing bowl.
+          Compare playertwomove c11 into 123th mixing bowl.
+            Fold temporaldos into 123th mixing bowl.
+              Compare space c12 into 123th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporalcuatro into 4th mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                    Put uno into the 77th mixing bowl.            
+              End compare c12.
+            Put temporaldos into the 123th mixing bowl.
+          End compare c11.
+        Put temporaluno into the 123th mixing bowl.
+    End compare c10.
+//-----------------------------------------------------------------------------------------------------OXO.  
+//Eliminado.
+//-----------------------------------------------------------------------------------------------------XOO.
+    Compare space c16 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playertwomove c17 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playertwomove c18 into 789th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporalcuatro into 4th mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.  
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.              
+              End compare c18.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c17.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c16.                  
+End compare v2.     
+//--------------------------------------------------------------Fin de analisis en fila dos.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en fila tres.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------OOX.
+Compare cero v3 into 77th mixing bowl.
+    Fold temporaluno into 5th mixing bowl.
+    Fold temporaldos into 5th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+    Put temporaltres into the 123th mixing bowl.
+    Put temporaldos into the 123th mixing bowl.
+    Put temporaluno into the 123th mixing bowl.
+    Put temporaltres into the 456th mixing bowl.
+    Put temporaldos into the 456th mixing bowl.
+    Put temporaluno into the 456th mixing bowl.
+    Put temporaltres into the 789th mixing bowl.
+    Put temporaldos into the 789th mixing bowl.
+    Put temporaluno into the 789th mixing bowl.
+    Put temporaltres into the 5th mixing bowl.
+    Put temporaldos into the 5th mixing bowl.
+    Put temporaluno into the 5th mixing bowl.
+//-----------------------------------------------------------------------------------------------------OOX.
+    Compare playertwomove c19 into 123th mixing bowl.
+        Fold temporaluno into 123th mixing bowl.
+          Compare playertwomove c20 into 123th mixing bowl.
+            Fold temporaldos into 123th mixing bowl.
+              Compare space c21 into 123th mixing bowl.
+                Fold temporaltres into 5th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.            
+              End compare c21.
+            Put temporaldos into the 123th mixing bowl.
+          End compare c20.
+        Put temporaluno into the 123th mixing bowl.
+    End compare c19.
+//--------------------------------------------------------------OXO.  
+    Compare playertwomove c22 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c23 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playertwomove c24 into 456th mixing bowl.
+                Fold temporaltres into 5th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.   
+                Put playertwomove into the 5th mixing bowl.   
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.          
+              End compare c24.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c23.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c22.    
+//--------------------------------------------------------------XOO.
+//Eliminado.
+//--------------------------------------------------------------Fin de analisis en fila tres.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en columna uno.
+//--------------------------------------------------------------.
+Compare cero v4 into 77th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporaldos into the 123th mixing bowl.
+      Put temporaluno into the 123th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporaldos into the 456th mixing bowl.
+      Put temporaluno into the 456th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporaldos into the 789th mixing bowl.
+      Put temporaluno into the 789th mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporaltres into the 5th mixing bowl.
+//--------------------------------------------------------------OOX.
+//Eliminado.
+//--------------------------------------------------------------OXO.  
+    Compare playertwomove c31 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c32 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playertwomove c33 into 456th mixing bowl.
+                Fold temporaltres into 3rd mixing bowl.
+                Fold temporalcuatro into 4th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.  
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.          
+              End compare c33.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c32.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c31.  
+//--------------------------------------------------------------XOO.
+    Compare space c34 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playertwomove c35 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playertwomove c36 into 789th mixing bowl.
+                Fold temporaltres into 3rd mixing bowl.
+                Fold temporalcuatro into 4th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                  Put playertwomove into the 5th mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.              
+              End compare c36.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c35.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c34.                  
+End compare v4.     
+//--------------------------------------------------------------Fin de analisis en columna uno.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en columna dos.
+//--------------------------------------------------------------.
+Compare cero v5 into 77th mixing bowl.
+    Fold temporalcuatro into 3rd mixing bowl.
+    Fold temporalcinco into 4th mixing bowl.
+    Fold temporalseis into 5th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporaldos into the 123th mixing bowl.
+      Put temporaluno into the 123th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporaldos into the 456th mixing bowl.
+      Put temporaluno into the 456th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporaldos into the 789th mixing bowl.
+      Put temporaluno into the 789th mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporaltres into the 5th mixing bowl.
+    Put temporalcuatro into the 3rd mixing bowl.
+    Put temporalcinco into the 4th mixing bowl.
+    Put temporalseis into the 5th mixing bowl.
+//--------------------------------------------------------------OOX.    
+    Compare playertwomove c37 into 123th mixing bowl.
+        Fold temporaluno into 123th mixing bowl.
+          Compare playertwomove c38 into 123th mixing bowl.
+            Fold temporaldos into 123th mixing bowl.
+              Compare space c39 into 123th mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporalsiete into 3rd mixing bowl.
+                Fold temporalocho into 4th mixing bowl.
+                Fold temporalnueve into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalcuatro into the 3rd mixing bowl.
+                Put temporalcinco into the 4th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.   
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.            
+              End compare c39.
+            Put temporaldos into the 123th mixing bowl.
+          End compare c38.
+        Put temporaluno into the 123th mixing bowl.
+    End compare c37.
+//--------------------------------------------------------------OXO.  
+//Eliminado.
+//--------------------------------------------------------------XOO.
+    Compare space c43 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playertwomove c44 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playertwomove c45 into 789th mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporalsiete into 3rd mixing bowl.
+                Fold temporalocho into 4th mixing bowl.
+                Fold temporalnueve into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalcuatro into the 3rd mixing bowl.
+                Put temporalcinco into the 4th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.  
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.              
+              End compare c45.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c44.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c43.                  
+End compare v5.     
+//--------------------------------------------------------------Fin de analisis en columna dos.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en columna tres.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------OOX.
+Compare cero v6 into 77th mixing bowl.
+    Fold temporalsiete into 3rd mixing bowl.
+    Fold temporalocho into 4th mixing bowl.
+    Fold temporalnueve into 5th mixing bowl.
+    Fold temporalcuatro into 3rd mixing bowl.
+    Fold temporalcinco into 4th mixing bowl.
+    Fold temporalseis into 5th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporaldos into the 123th mixing bowl.
+      Put temporaluno into the 123th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporaldos into the 456th mixing bowl.
+      Put temporaluno into the 456th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporaldos into the 789th mixing bowl.
+      Put temporaluno into the 789th mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporaltres into the 5th mixing bowl.
+    Put temporalcuatro into the 3rd mixing bowl.
+    Put temporalcinco into the 4th mixing bowl.
+    Put temporalseis into the 5th mixing bowl.
+    Put temporalsiete into the 3rd mixing bowl.
+    Put temporalocho into the 4th mixing bowl.
+    Put temporalnueve into the 5th mixing bowl.
+    Compare playertwomove c46 into 123th mixing bowl.
+        Fold temporaluno into 123th mixing bowl.
+          Compare playertwomove c47 into 123th mixing bowl.
+            Fold temporaldos into 123th mixing bowl.
+              Compare space c48 into 123th mixing bowl.
+                Fold temporalsiete into 3rd mixing bowl.
+                Fold temporalocho into 4th mixing bowl.
+                Fold temporalnueve into 5th mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporaldoce into 3rd mixing bowl.
+                Fold temporalonce into 4th mixing bowl.
+                Fold temporaldiez into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalcuatro into the 3rd mixing bowl.
+                Put temporalcinco into the 4th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.   
+                Put temporalsiete into the 3rd mixing bowl.
+                Put temporalocho into the 4th mixing bowl.
+                Put temporalnueve into the 5th mixing bowl.  
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.            
+              End compare c48.
+            Put temporaldos into the 123th mixing bowl.
+          End compare c47.
+        Put temporaluno into the 123th mixing bowl.
+    End compare c46.
+//--------------------------------------------------------------OXO.  
+    Compare playertwomove c49 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c50 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playertwomove c51 into 456th mixing bowl.
+                Fold temporalsiete into 3rd mixing bowl.
+                Fold temporalocho into 4th mixing bowl.
+                Fold temporalnueve into 5th mixing bowl.
+                Fold temporalcuatro into 3rd mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Fold temporaldoce into 3rd mixing bowl.
+                Fold temporalonce into 4th mixing bowl.
+                Fold temporaldiez into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalcuatro into the 3rd mixing bowl.
+                Put temporalcinco into the 4th mixing bowl.
+                Put temporalseis into the 5th mixing bowl.   
+                Put temporalsiete into the 3rd mixing bowl.
+                Put temporalocho into the 4th mixing bowl.
+                Put temporalnueve into the 5th mixing bowl. 
+                Fold booleano into 77th mixing bowl.
+                Put uno into the 77th mixing bowl.          
+              End compare c51.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c50.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c49.  
+//--------------------------------------------------------------XOO.
+//Eliminado.
+//--------------------------------------------------------------Fin de analisis en columna tres.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en diagonal de izquierda a derecha.
+Compare cero v7 into 77th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 4th mixing bowl.
+    Fold temporalcuatro into 5th mixing bowl.
+    Fold temporalcinco into 5th mixing bowl.
+    Fold temporalseis into 5th mixing bowl.
+      Put temporalseis into the 123th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporaluno into the 123th mixing bowl.
+      Put temporalseis into the 456th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporaluno into the 456th mixing bowl.
+      Put temporalseis into the 789th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporaluno into the 789th mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+    Put temporaltres into the 4th mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporalseis into the 5th mixing bowl.
+    Put temporalcinco into the 5th mixing bowl.
+    Put temporalcuatro into the 5th mixing bowl.
+//--------------------------------------------------------------XOO.
+//Eliminado.
+//--------------------------------------------------------------OXO.  
+    Compare playertwomove c58 into 456th mixing bowl.
+        Fold temporalonce into 456th mixing bowl.
+          Compare space c59 into 456th mixing bowl.
+            Fold temporaldoce into 456th mixing bowl.
+              Compare playertwomove c60 into 456th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put temporaldos into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalcinco into the 5th mixing bowl.
+                Put temporalcuatro into the 5th mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.      
+              End compare c60.
+            Put temporaldoce into the 456th mixing bowl.
+          End compare c59.
+        Put temporalonce into the 456th mixing bowl.
+    End compare c58. 
+//--------------------------------------------------------------XOO.
+    Compare space c61 into 789th mixing bowl.
+        Fold temporalonce into 789th mixing bowl.
+          Compare playertwomove c62 into 789th mixing bowl.
+            Fold temporaldoce into 789th mixing bowl.
+              Compare playertwomove c63 into 789th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaldos into 4th mixing bowl.
+                Fold temporaltres into 4th mixing bowl.
+                Fold temporalcuatro into 5th mixing bowl.
+                Fold temporalcinco into 5th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put temporaldos into the 4th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put temporalcinco into the 5th mixing bowl.
+                Put temporalcuatro into the 5th mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.                  
+              End compare c63.
+            Put temporaldoce into the 789th mixing bowl.
+          End compare c62.
+        Put temporalonce into the 789th mixing bowl.
+    End compare c61.                  
+End compare v7.     
+//--------------------------------------------------------------Fin de analisis en diagonal de izquierda a derecha.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis en diagonal de derecha a izquierda.
+Compare cero v8 into 77th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 3rd mixing bowl.
+    Fold temporaltres into 3rd mixing bowl.
+    Fold temporalcuatro into 4th mixing bowl.
+    Fold temporalcinco into 4th mixing bowl.
+    Fold temporalseis into 5th mixing bowl.
+      Put temporaltres into the 123th mixing bowl.
+      Put temporalcinco into the 123th mixing bowl.
+      Put temporalseis into the 123th mixing bowl.
+      Put temporaltres into the 456th mixing bowl.
+      Put temporalcinco into the 456th mixing bowl.
+      Put temporalseis into the 456th mixing bowl.
+      Put temporaltres into the 789th mixing bowl.
+      Put temporalcinco into the 789th mixing bowl.
+      Put temporalseis into the 789th mixing bowl.
+    Put temporalseis into the 5th mixing bowl.
+    Put temporalcinco into the 4th mixing bowl.
+    Put temporalcuatro into the 4th mixing bowl.
+    Put temporaltres into the 3rd mixing bowl.
+    Put temporaldos into the 3rd mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+//--------------------------------------------------------------XOO.  
+//Eliminado.
+//--------------------------------------------------------------OXO.  
+    Compare playertwomove c67 into 456th mixing bowl.
+        Fold temporaluno into 456th mixing bowl.
+          Compare space c68 into 456th mixing bowl.
+            Fold temporaldos into 456th mixing bowl.
+              Compare playertwomove c69 into 456th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaldos into 3rd mixing bowl.
+                Fold temporaltres into 3rd mixing bowl.
+                Fold temporalcuatro into 4th mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put temporalcuatro into the 4th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put temporaldos into the 3rd mixing bowl.
+                Put temporaluno into the 3rd mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.    
+              End compare c69.
+            Put temporaldos into the 456th mixing bowl.
+          End compare c68.
+        Put temporaluno into the 456th mixing bowl.
+    End compare c67. 
+//--------------------------------------------------------------XOO.
+    Compare space c70 into 789th mixing bowl.
+        Fold temporaluno into 789th mixing bowl.
+          Compare playertwomove c71 into 789th mixing bowl.
+            Fold temporaldos into 789th mixing bowl.
+              Compare playertwomove c72 into 789th mixing bowl.
+                Fold temporaluno into 3rd mixing bowl.
+                Fold temporaldos into 3rd mixing bowl.
+                Fold temporaltres into 3rd mixing bowl.
+                Fold temporalcuatro into 4th mixing bowl.
+                Fold temporalcinco into 4th mixing bowl.
+                Fold temporalseis into 5th mixing bowl.
+                Put playertwomove into the 5th mixing bowl.
+                Put playertwomove into the 4th mixing bowl.
+                Put temporalcuatro into the 4th mixing bowl.
+                Put playertwomove into the 3rd mixing bowl.
+                Put temporaldos into the 3rd mixing bowl.
+                Put temporaluno into the 3rd mixing bowl.
+                  Fold booleano into 77th mixing bowl.
+                  Put uno into the 77th mixing bowl.                   
+              End compare c72.
+            Put temporaldos into the 789th mixing bowl.
+          End compare c71.
+        Put temporaluno into the 789th mixing bowl.
+    End compare c70.                  
+End compare v8.
+//--------------------------------------------------------------Fin de analisis en diagonal de derecha a izquierda.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Fin ganar.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio de analisis individual.
+//--------------------------------------------------------------.
+Clean the 944th mixing bowl.
+Clean the 945th mixing bowl.
+Clean the 946th mixing bowl.
+//------------------------------------.
+Fold temporaluno into 3rd mixing bowl.
+Fold temporaldos into 3rd mixing bowl.
+Fold temporaltres into 3rd mixing bowl.
+Put temporaltres into 944th mixing bowl.
+Put temporaldos into 944th mixing bowl.
+Put temporaluno into 944th mixing bowl.
+Put temporaltres into 3rd mixing bowl.
+Put temporaldos into 3rd mixing bowl.
+Put temporaluno into 3rd mixing bowl.
+//------------------------------------.
+Fold temporalcuatro into 4th mixing bowl.
+Fold temporalcinco into 4th mixing bowl.
+Fold temporalseis into 4th mixing bowl.
+Put temporalseis into 945th mixing bowl.
+Put temporalcinco into 945th mixing bowl.
+Put temporalcuatro into 945th mixing bowl.
+Put temporalseis into 4th mixing bowl.
+Put temporalcinco into 4th mixing bowl.
+Put temporalcuatro into 4th mixing bowl.
+//------------------------------------.
+Fold temporalsiete into 5th mixing bowl.
+Fold temporalocho into 5th mixing bowl.
+Fold temporalnueve into 5th mixing bowl.
+Put temporalnueve into 946th mixing bowl.
+Put temporalocho into 946th mixing bowl.
+Put temporalsiete into 946th mixing bowl.
+Put temporalnueve into 5th mixing bowl.
+Put temporalocho into 5th mixing bowl.
+Put temporalsiete into 5th mixing bowl.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------22.
+Compare cero v9 into 77th mixing bowl.
+Fold temporaltres into 945th mixing bowl.
+  Compare space c73 into 945th mixing bowl.
+    Fold temporaluno into 4th mixing bowl.
+      Fold temporaldos into 4th mixing bowl.
+      Put playertwomove into the 4th mixing bowl.
+    Put temporaluno into the 4th mixing bowl.    
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.   
+  End compare c73.
+Put temporaltres into the 945th mixing bowl. 
+End compare v9.
+//--------------------------------------------------------------End 22.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------11.
+Compare cero v10 into 77th mixing bowl.
+Compare space c74 into 3rd mixing bowl.
+  Fold temporaluno into 3rd mixing bowl.
+  Put playertwomove into the 3rd mixing bowl.
+    Fold booleano into 77th mixing bowl.
+    Put uno into the 77th mixing bowl.     
+End compare c74.
+End compare v10.
+//--------------------------------------------------------------End 11.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------13.
+Compare cero v11 into 77th mixing bowl.
+Fold temporalcuatro into 944th mixing bowl.
+Fold temporalcinco into 944th mixing bowl.
+  Compare space c75 into 944th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaldos into 3rd mixing bowl.
+    Fold temporaltres into 3rd mixing bowl.
+    Put playertwomove into the 3rd mixing bowl.   
+    Put temporaldos into the 3rd mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.  
+  End compare c75.
+Put temporalcinco into the 944th mixing bowl.
+Put temporalcuatro into the 944th mixing bowl.
+End compare v11.
+//--------------------------------------------------------------End 13.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------31.
+Compare cero v12 into 77th mixing bowl.
+Compare space c76 into 5th mixing bowl.
+  Fold temporaluno into 5th mixing bowl.
+  Put playertwomove into 5th mixing bowl.
+  Fold booleano into 77th mixing bowl.
+  Put uno into the 77th mixing bowl.     
+End compare c76.
+End compare v12.
+//--------------------------------------------------------------End 31.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------33.
+Compare cero v13 into 77th mixing bowl.
+Fold temporalcinco into 946th mixing bowl.
+Fold temporalseis into 946th mixing bowl.
+  Compare space c77 into 946th mixing bowl.
+    Fold temporaluno into 5th mixing bowl.
+    Fold temporaldos into 5th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+    Put playertwomove into the 5th mixing bowl.
+    Put temporaldos into the 5th mixing bowl.
+    Put temporaluno into the 5th mixing bowl.
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.     
+  End compare c77.
+Put temporalseis into the 946th mixing bowl.
+Put temporalcinco into the 946th mixing bowl.
+End compare v13.
+//--------------------------------------------------------------End 33.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------12.
+Compare cero v14 into 77th mixing bowl.
+Fold temporalseis into 944th mixing bowl.
+  Compare space c79 into 944th mixing bowl.
+    Fold temporaluno into 3rd mixing bowl.
+    Fold temporaltres into 3rd mixing bowl.
+    Put playertwomove into the 3rd mixing bowl.
+    Put temporaluno into the 3rd mixing bowl.
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.     
+  End compare c79.
+Put temporalseis into the 944th mixing bowl.
+End compare v14.
+//--------------------------------------------------------------End 12.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------21.
+Compare cero v15 into 77th mixing bowl.
+Compare space c80 into 4th mixing bowl.
+  Fold temporaltres into 4th mixing bowl.
+  Put playertwomove into the 4th mixing bowl.
+  Fold booleano into 77th mixing bowl.
+  Put uno into the 77th mixing bowl.     
+End compare c80.
+End compare v15.
+//--------------------------------------------------------------End 21.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------23.
+Compare cero v16 into 77th mixing bowl.
+Fold temporalseis into 945th mixing bowl.
+Fold temporalsiete into 945th mixing bowl.
+  Compare space c81 into 945th mixing bowl.
+    Fold temporaluno into 4th mixing bowl.
+    Fold temporaldos into 4th mixing bowl.
+    Fold temporaltres into 4th mixing bowl.
+    Put playertwomove into the 4th mixing bowl.
+    Put temporaldos into the 4th mixing bowl.
+    Put temporaluno into the 4th mixing bowl.   
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.  
+  End compare c81.
+Put temporalsiete into the 945th mixing bowl.
+Put temporalseis into the 945th mixing bowl.    
+End compare v16.
+//--------------------------------------------------------------End 23.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------32.
+Compare cero v17 into 77th mixing bowl.
+Fold temporalocho into 946th mixing bowl.
+  Compare space c82 into 946th mixing bowl.
+    Fold temporaluno into 5th mixing bowl.
+    Fold temporaltres into 5th mixing bowl.
+    Put playertwomove into the 5th mixing bowl.
+    Put temporaluno into the 5th mixing bowl. 
+      Fold booleano into 77th mixing bowl.
+      Put uno into the 77th mixing bowl.    
+End compare c82.
+Put temporalocho into the 946th mixing bowl. 
+End compare v17.
+//--------------------------------------------------------------End 32.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Fin de analisis individual.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Fin condicionales inteligentes xd.
+End compare cv7.
+//--------------------------------------------------------------Fin - normal.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio - dificil.
+Compare dificultad cv8 into 1999th mixing bowl.
 //--------------------------------------------------------------Inicio condicionales inteligentes xd.
 Put booleano into the 77th mixing bowl.
 //--------------------------------------------------------------.
@@ -2435,6 +3520,70 @@ End compare v17.
 //--------------------------------------------------------------Fin de analisis individual.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Fin condicionales inteligentes xd.
+End compare cv8.
+//--------------------------------------------------------------Fin - dificil.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Fin - Nivel de dificultad.
+//--------------------------------------------------------------.
+//--------------------------------------------------------------Inicio mostrar aviso de maquina.
+Fold temporaltemporal into 369th mixing bowl.
+Compare temporaltemporal fin into 258th mixing bowl.
+      Put punto into the mixing bowl.
+      Put o into the mixing bowl.
+      Put i into the mixing bowl.      
+      Put t into the mixing bowl.
+      Put space into the mixing bowl.
+      Put coma into the mixing bowl.
+      Put e into the mixing bowl.
+      Put t into the mixing bowl.     
+      Put a into the mixing bowl.
+      Put p into the mixing bowl.
+      Put m into the mixing bowl.
+      Put e into the mixing bowl.
+      Put space into the mixing bowl.
+      Put n into the mixing bowl.
+      Put u into the mixing bowl.
+      Put space into the mixing bowl.
+      Put o into the mixing bowl.
+      Put d into the mixing bowl.
+      Put i into the mixing bowl.
+      Put s into the mixing bowl.
+      Put space into the mixing bowl.
+      Put a into the mixing bowl.
+      Put hm into the mixing bowl.
+      Show the mixing bowl.
+      Clean the mixing bowl.
+      Set aside.
+End compare fin.
+//--------------------------------------------------------------.
+Put dospuntos into the mixing bowl.
+Put a into the mixing bowl.
+Put n into the mixing bowl.
+Put i into the mixing bowl.
+Put u into the mixing bowl.
+Put q into the mixing bowl.
+Put a into the mixing bowl.
+Put m into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put l into the mixing bowl.
+Put space into the mixing bowl.
+Put e into the mixing bowl.
+Put d into the mixing bowl.
+Put space into the mixing bowl.
+Put a into the mixing bowl.
+Put t into the mixing bowl.
+Put s into the mixing bowl.
+Put e into the mixing bowl.
+Put u into the mixing bowl.
+Put p into the mixing bowl.
+Put s into the mixing bowl.
+Put e into the mixing bowl.
+Put rm into the mixing bowl.
+Show the mixing bowl.
+Clean the mixing bowl.
+//--------------------------------------------------------------Fin mostrar aviso de maquina.
+//--------------------------------------------------------------.
 //--------------------------------------------------------------.
 //--------------------------------------------------------------Inicio preparar tablero despues de movimiento.
 Clean the 7th mixing bowl.
